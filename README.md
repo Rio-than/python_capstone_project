@@ -1,5 +1,5 @@
 # python_capstone_project
-# **Python Capstone Project Proposal**  
+# **Python Capstone Project **  
 
 ## **Project Overview**  
 
