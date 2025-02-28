@@ -1,17 +1,14 @@
-# python_capstone_project
-# **Python Capstone Project **  
+# Python Capstone Project  
 
-## **Project Overview**  
+## Project Title  
+### Solar Power Output and Energy Demand Calculator  
 
-### **Project Title**  
-**Solar Power Output and Energy Demand Calculator**  
-
-### **Project Summary**  
+### Project Summary  
 This project is a Python-based solar energy calculator using Tkinter. It allows users to select a region in Kenya from a specified number of regions;kisumu,bomet,nyandarua,mandera,mombasa, specify a solar panel size, and choose household appliances from a list of common appliances;television,sound system,iron box,lighting set as default, to estimate solar power generation and daily energy consumption. Based on the calculations, the program provides recommendations on whether the panel size is sufficient or if an upgrade is necessary.  
 
 ---
 
-## **Problem Statement**  
+## Problem Statement  
 
 ### **What problem will your Python project solve?**  
 - Many people in Kenya struggle to estimate the correct solar panel size for their energy needs.  
